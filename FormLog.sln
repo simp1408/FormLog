@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormLog", "FormLog\FormLog.csproj", "{D28D95E8-6CD7-4152-9473-EFF700197DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28D95E8-6CD7-4152-9473-EFF700197DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28D95E8-6CD7-4152-9473-EFF700197DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28D95E8-6CD7-4152-9473-EFF700197DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28D95E8-6CD7-4152-9473-EFF700197DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F9C5A0-637F-4B4A-B773-D37C036239D7}
+	EndGlobalSection
+EndGlobal
